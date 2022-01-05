@@ -25,6 +25,8 @@ This data set contains information about 183,000 rides collected from bike-shari
 - the data of gender and birth year for about 8265 rides are dropped from the source CSV file but i decided to accept it.
 
 
+I decided to export the cleaned data to tableau software where I can do the explanatory process and I got great insights and findings. You can find Tableau dashboards through this link: https://public.tableau.com/app/profile/khaled.yaseen/viz/FordGo-bikeshareData/Stations
+
 ## Summary of Findings
 
  1 : The most number of trips occurs on thrusday with percentage of 19.2% of total number of trips.
