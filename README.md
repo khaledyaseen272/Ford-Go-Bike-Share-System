@@ -25,7 +25,9 @@ This data set contains information about 183,000 rides collected from bike-shari
 - the data of gender and birth year for about 8265 rides are dropped from the source CSV file but i decided to accept it.
 
 
-I decided to export the cleaned data to tableau software where I can do the explanatory process and I got great insights and findings. You can find Tableau dashboards through this link: https://public.tableau.com/app/profile/khaled.yaseen/viz/FordGo-bikeshareData/Stations
+## Explanatory Process
+
+I did the explanatory process with 2 methods. the first one with coding and python visualization libraries (matplotlib and seaborn).In the second method, I decided to export the cleaned data to tableau software where I can do the explanatory process and I got great insights and findings. You can find Tableau dashboards through this link: https://public.tableau.com/app/profile/khaled.yaseen/viz/FordGo-bikeshareData/Stations
 
 ## Summary of Findings
 
